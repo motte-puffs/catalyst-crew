@@ -26,9 +26,9 @@ class _HomePageState extends State<HomePage> {
       "url": 'https://github.com/motte-puffs/ToDo-app'
     },
     {
-      "title": "catalystcrew.in",
-      "description": "The landing site for catalystcrew.in",
-      "tags": ["Flutter", "MySQL","Node.js"],
+      "title": "catalystcrew",
+      "description": "The landing site for catalystcrew",
+      "tags": ["Flutter", "MySQL"],
       "url": 'https://github.com/motte-puffs/catalystcrew.in'
     },
   ];

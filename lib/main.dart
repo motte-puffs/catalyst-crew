@@ -1,8 +1,17 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';  // Import google_fonts
+import 'package:google_fonts/google_fonts.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:my_portfolio/pages/home_page.dart';
+import 'firebase_options.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   runApp(const MyApp());
 }
 
@@ -12,13 +21,13 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'My Portfolio',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
-        // Apply Montserrat font globally to the text theme
         textTheme: GoogleFonts.montserratTextTheme(
-          Theme.of(context).textTheme,  // Apply Montserrat to the existing text theme
+          Theme.of(context).textTheme,
         ),
       ),
-      debugShowCheckedModeBanner: false,
       home: const HomePage(),
     );
   }

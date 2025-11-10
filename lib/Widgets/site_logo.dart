@@ -17,7 +17,7 @@ class SiteLogo extends StatelessWidget {
                        fontWeight: FontWeight.bold,
                        color: Colors.white
                       ),
-                      "CATALYSTCREW.IN",
+                      "CATALYSTCREW",
                     ),
                   ),
                 );
