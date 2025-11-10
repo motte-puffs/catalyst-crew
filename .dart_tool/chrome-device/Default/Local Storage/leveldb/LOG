@@ -1,4 +1,2 @@
-2025/11/11-00:14:06.540 27b0 Reusing MANIFEST C:\Users\Nammya\AppData\Local\Temp\flutter_tools.5a30fe73\flutter_tools_chrome_device.fc27c0a7\Default\Local Storage\leveldb/MANIFEST-000001
-2025/11/11-00:14:06.564 27b0 Recovering log #4
-2025/11/11-00:14:06.569 27b0 Reusing old log C:\Users\Nammya\AppData\Local\Temp\flutter_tools.5a30fe73\flutter_tools_chrome_device.fc27c0a7\Default\Local Storage\leveldb/000004.log 
-2025/11/11-00:14:06.576 27b0 Delete type=0 #3
+2025/11/11-00:53:00.318 4474 Creating DB C:\Users\Nammya\AppData\Local\Temp\flutter_tools.b41f800d\flutter_tools_chrome_device.c75ac855\Default\Local Storage\leveldb since it was missing.
+2025/11/11-00:53:00.345 4474 Reusing MANIFEST C:\Users\Nammya\AppData\Local\Temp\flutter_tools.b41f800d\flutter_tools_chrome_device.c75ac855\Default\Local Storage\leveldb/MANIFEST-000001

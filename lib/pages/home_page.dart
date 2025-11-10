@@ -6,6 +6,7 @@ import 'package:my_portfolio/Widgets/headerdesktop.dart';
 import 'package:my_portfolio/Widgets/projectcard_desktop.dart';
 import 'package:my_portfolio/Widgets/projectcard_mobile.dart';
 import 'package:my_portfolio/pages/connect_page.dart';
+import 'dart:html' as html;
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'My Portfolio',
+      title: 'CatalystCrew',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         textTheme: GoogleFonts.montserratTextTheme(

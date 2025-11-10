@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "794117261159",
-    "project_id": "portfolio-contact-e578f",
-    "storage_bucket": "portfolio-contact-e578f.firebasestorage.app"
+    "project_number": "194982231513",
+    "project_id": "catalystcrew-67",
+    "storage_bucket": "catalystcrew-67.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:794117261159:android:6466e606fe761f07d191c2",
+        "mobilesdk_app_id": "1:194982231513:android:51b0868890312156d3edc8",
         "android_client_info": {
           "package_name": "com.example.my_portfolio"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA-zhjmAObJLvjomg8fh48XLP_rsyihgSU"
+          "current_key": "AIzaSyDOjsgVbX73AxKc5Q-sttN750BYWHAu9Sc"
         }
       ],
       "services": {
