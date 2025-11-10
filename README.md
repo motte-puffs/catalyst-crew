@@ -8,4 +8,4 @@ A personal portfolio website built using Flutter Web and Firebase.
 - Hosted on Firebase Hosting
 
 ## Live Demo
-[https://naman-portfolio.web.app](https://naman-portfolio.web.app)
+[https://naman-portfolio.web.app](https://catalystcrew-67.web.app/)
